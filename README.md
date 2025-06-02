@@ -1,6 +1,7 @@
 # 🍽️ Recipe Catalog API
 
-Uma API RESTful feita com **NestJS**, **TypeScript** e **Clean Architecture**, que permite o gerenciamento simples de receitas.
+Uma API RESTful feita com **NestJS**, **TypeScript** e **Clean Architecture**, que permite o gerenciamento simples de receitas.<br>
+Acessar a documentação Swagger da [API](https://recipe-catalog-api-production.up.railway.app/swagger) em produção.
 
 ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=light)
 ![NestJS](https://skillicons.dev/icons?i=nestjs&theme=light)
